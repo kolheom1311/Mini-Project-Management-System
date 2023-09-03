@@ -11,5 +11,5 @@ Track the progress of tasks
 Communicate with team members
 Generate reports
 Requirements
-A web browser
-A GitHub account
+* A web browser
+* A GitHub account
